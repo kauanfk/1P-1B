@@ -33,3 +33,18 @@ footer p{
     font-size: 0,8rem;
 
 }
+.cabecalho{
+ margin: 50px;
+ padding: 40px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+a{
+    color: white;
+    padding: 20px;
+}
+main{
+    background-color: #640000;
+    padding:20px;
+}
