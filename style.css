@@ -35,7 +35,7 @@ footer p{
 }
 .cabecalho{
  margin: 50px;
- padding: 40px;
+ padding: 20px;
  display: flex;
  align-items: center;
  justify-content: space-between;
@@ -43,6 +43,8 @@ footer p{
 a{
     color: white;
     padding: 20px;
+    font-size: 20px;
+    text-decoration: double;
 }
 main{
     background-color: #640000;
